@@ -10,6 +10,7 @@ class Animal {
   }
 }
 
+// Dog extends Animal
 
 class Dog extends Animal {
   constructor(species, sound, color) {
